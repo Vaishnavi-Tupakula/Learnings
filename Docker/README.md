@@ -40,16 +40,18 @@ Features
 <br>
 
 
-<b>What is Docker Image?<b><br>
+<b>What is Docker Image?</b><br>
 <p>Docker image is an executable that contains instructions on creation of Container.
 A Docker image can be used to create multiple containers. When we talk about sharing containers, we actually mean sharing these docker images that allows us to create containers locally.<br>
 Docker image is a static snapshot of how exactly the code and its dependencies look like.
 </p>
 
-<b>Understanding the concept with classes and Objects<b><br>
+<b>Understanding the concept with classes and Objects</b><br>
 <p>Docker image can be considered as Class, which acts like a blueprint for building containers. Container can be viewed as an object which actually interacts with the system like an object which actually resides in the memory.</p>
 
 </p>
+<br>
+
 
 
 <h1>VM Vs Docker</h1><hr><br>
