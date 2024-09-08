@@ -1,0 +1,28 @@
+==> Why DevOps?
+To speed up the software delivery.
+
+Example: Let's consider 2 famous E-commerce platforms. A phone costs 10k in both 
+         the platforms but the 1st one delivers the product in 2 days and the other
+         delivers in 5 days. We, as customers choose to buy it from 1st platform 
+         right?
+
+         So, it's important to deliver the software application as soon as possible.
+
+
+==> Why is there a delay in Software product delivery?
+To deliver a software application, we have 2 different teams working. 
+1) Development team
+2) Operations team
+
+**Development team**
+This team does
+-> Planning=Plans the project flow, resources needed, etc..
+-> Coding=Developers actually Code the application in any of the languages like java
+-> Building=Combines the code with it's dependencies.
+-> Testing=Tests if the code works fine and fulfills all the features and functionalities.
+
+**Operations team**
+This team
+-> Deployment=Installing the application code 
+-> Operations
+-> Monitoring
